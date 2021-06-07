@@ -1,7 +1,5 @@
 package jwt
 
-import "time"
-
 type Payload struct {
 	username string
 }
