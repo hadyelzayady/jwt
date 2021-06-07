@@ -1,9 +1,9 @@
 package jwt
 
-import (
-	"crypto/hmac"
-	"crypto/sha256"
-)
+// import (
+//     "crypto/hmac"
+//     "crypto/sha256"
+// )
 
 type Payload struct {
 	username string
